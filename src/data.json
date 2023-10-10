@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "test",
+      "date": "02/10/23",
+      "description": "javascript course",
+      "amount": 15
+    },
+    {
+      "id": "test",
+      "date": "02/10/23",
+      "description": "javascript course",
+      "amount": 15
+    },
+    {
+      "id": "test",
+      "date": "02/10/23",
+      "description": "javascript course",
+      "amount": 15
+    },
+    {
+      "id": "test",
+      "date": "02/10/23",
+      "description": "javascript course",
+      "amount": 15
+    }
+  ]
+}
